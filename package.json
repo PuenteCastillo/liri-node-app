@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuenteCastillo/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuenteCastillo/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/PuenteCastillo/liri-node-app#readme",
+  "dependencies": {
+    "ascii-art": "^1.5.0",
+    "axios": "^0.18.0",
+    "figlet": "^1.2.1",
+    "terminal-image": "^0.1.2"
+  }
+}
